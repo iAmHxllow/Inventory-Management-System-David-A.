@@ -1,0 +1,23 @@
+{
+    "cSpell.ignoreWords": [
+        "purchasedoverview",
+        "purchaseoveriew",
+        "purchaseoverview"
+    ],
+    "cSpell.words": [
+        "Accnt",
+        "barchart",
+        "barctx",
+        "Chart",
+        "getElementById",
+        "invsummary-sections",
+        "line2Ctx",
+        "linechart",
+        "lowstock",
+        "recieved",
+        "salesoverview",
+        "stgs",
+        "Stockpage"
+    ],
+    "liveServer.settings.port": 5502
+}
